@@ -8,7 +8,7 @@ About Me
 
 I am a B.Tech student with a growing interest in software development, cybersecurity, and problem-solving. My current focus lies in building practical projects that combine Python, web development, and machine learning concepts.
 
-I believe in learning by building — transforming theoretical concepts into functional systems.
+I believe in learning by building transforming theoretical concepts into functional systems.
 
 ---
 
