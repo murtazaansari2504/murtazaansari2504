@@ -1,6 +1,6 @@
 Hi, I'm Murtaza Ansari
 
-B.Tech Student | Aspiring Software Developer | Cybersecurity Enthusiast
+B.Tech Student | Aspiring Software Developer | AIML Enthusiast
 
 ---
 
@@ -18,6 +18,7 @@ Current Focus
 - Building modern and responsive frontend interfaces
 - Strengthening Data Structures and Algorithms (DSA)
 - Experimenting with LLM-based security models
+- Experimenting with GAN and QGAN.
 
 ---
 
@@ -54,8 +55,30 @@ A web-based system that analyzes files and API sequences to detect malicious beh
 - Backend: Flask
 - Focus: Detection logic and UI/UX integration
 
-More projects coming soon.
 
+RAG-Based Information System
+
+Tech Stack: Python, NLP, Vector Databases, LLMs
+•Built an AI-powered retrieval system using semantic search.
+•Implemented document indexing, embeddings, and chunking techniques.
+•Improved response accuracy using trusted contextual data.
+
+
+Movie Recommender System
+
+Tech Stack: Python, Streamlit, Pandas, Scikit-learn
+•Developed a content-based movie recommendation system.
+•Performed data preprocessing, EDA, and feature extraction.
+•Deployed an interactive web-based interface.
+
+
+ Comparative Analysis of Generative Adversarial Networks (GANs) and Quantum Generative Adversarial Networks (QGANs)
+
+•Conducted a comparative study of classical Generative Adversarial Networks (GANs) and Quantum Generative Adversarial Networks (QGANs).
+•Analyzed the architectures, training methodologies, computational complexities, advantages, and limitations of both models.
+•Explored the application of quantum computing concepts, including qubits, superposition, and parameterized quantum circuits, in generative machine learning.
+•Evaluated the potential benefits and challenges of QGANs compared to traditional GANs in artificial intelligence and quantum machine learning.
+•Prepared a research report highlighting current developments, practical applications, and future research directions in quantum enhanced generative models.
 ---
 
 Goals
